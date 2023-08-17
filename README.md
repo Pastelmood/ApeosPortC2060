@@ -1,1 +1,3 @@
-# ApeosPortC2060
+# ApeosPort C2060 Supplies Status
+
+This GitHub repository provides a Python script to retrieve the supplies status of an ApeosPort C2060 device and save the obtained data into a CSV file. The script utilizes APIs to communicate with the device and gather information about various supplies such as toner levels, drum status, and more. The collected data is then organized and stored in a CSV file, making it easy to analyze and manage the supplies status over time. This tool simplifies the process of monitoring and tracking the usage of essential supplies for the ApeosPort C2060, streamlining maintenance and ensuring uninterrupted operations.
