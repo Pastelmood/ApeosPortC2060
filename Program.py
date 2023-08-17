@@ -5,7 +5,7 @@ import csv
 import os
 
 # Set CSV path
-CSV_FILE_PATH = 'C:\\Users\\cboonsangiem\\OneDrive - Sarens\\BUSINESS UNIT THAILAND - IT\\71 Documents\\Sarens Thailand - CHOBURI_PRN012.csv'
+CSV_FILE_PATH = ''
 
 def get_printer_status():
 
